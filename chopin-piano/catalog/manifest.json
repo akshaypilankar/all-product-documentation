@@ -1,0 +1,255 @@
+{
+ "songs": [
+  {
+   "category": "classic",
+   "composer": "Ludwig van Beethoven",
+   "file": "songs/beethoven-fifth.song",
+   "id": "beethoven-fifth",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "b4c4b8be55a7c80c40c9336e273811121e091614f8e3191acf6a8d7ac3cee692",
+   "title": "Symphony No. 5 (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Johann Strauss II",
+   "file": "songs/blue-danube.song",
+   "id": "blue-danube",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "2fddae5287c778f304e9a6eaff12ad26d965cc7b400afa15e0b9cf1ca4f0ec30",
+   "title": "The Blue Danube"
+  },
+  {
+   "category": "classic",
+   "composer": "Johannes Brahms",
+   "file": "songs/brahms-lullaby.song",
+   "id": "brahms-lullaby",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "9b5d98c75f72d44d208037e6dc5d24eab1acafe02092ea1195ea2a0e96b347bc",
+   "title": "Lullaby (Wiegenlied)"
+  },
+  {
+   "category": "classic",
+   "composer": "Johann Pachelbel",
+   "file": "songs/canon-in-d.song",
+   "id": "canon-in-d",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "a034a863b1b9866ad3889f7144f7ce61be5bfe0c4f033ffef13a80ee9eb41f47",
+   "title": "Canon in D"
+  },
+  {
+   "category": "holiday",
+   "composer": "Mykola Leontovych",
+   "file": "songs/carol-of-the-bells.song",
+   "id": "carol-of-the-bells",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "ec31a72dd9ec95165ed6e08cc0a553669716f5207bea929a3724f41ab156a45d",
+   "title": "Carol of the Bells"
+  },
+  {
+   "category": "classic",
+   "composer": "Wolfgang Amadeus Mozart",
+   "file": "songs/eine-kleine-nachtmusik.song",
+   "id": "eine-kleine-nachtmusik",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "6d9c58464ab308bdc15af0b21991922aa178992f3c5d0a853255d7be34de3a05",
+   "title": "Eine kleine Nachtmusik (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Anton\u00edn Dvo\u0159\u00e1k",
+   "file": "songs/goin-home.song",
+   "id": "goin-home",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "aaf9313becde20e5774b23e98be221b6ab1b8c1963dc96ff69c71f280489506d",
+   "title": "Goin' Home (New World Largo)"
+  },
+  {
+   "category": "classic",
+   "composer": "Johann Sebastian Bach",
+   "file": "songs/jesu-joy.song",
+   "id": "jesu-joy",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "208fa8c773be5d2a547bec4ed43f0a34c22ed526604d8c3613df289ece7aedd9",
+   "title": "Jesu, Joy of Man's Desiring"
+  },
+  {
+   "category": "classic",
+   "composer": "Ludwig van Beethoven",
+   "file": "songs/moonlight-sonata.song",
+   "id": "moonlight-sonata",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "a0dd87b49f0ca9ccecf3f7c23f96c51ad9570228e132c5b39320cdf8b00a3f35",
+   "title": "Moonlight Sonata (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Edvard Grieg",
+   "file": "songs/morning-mood.song",
+   "id": "morning-mood",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "805faac27c21c32bf888ecc9f8ef700a98d6f8c3c4e182ef5bb55bca53c78936",
+   "title": "Morning Mood"
+  },
+  {
+   "category": "classic",
+   "composer": "Edvard Grieg",
+   "file": "songs/mountain-king.song",
+   "id": "mountain-king",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "c2b17c887534b0d80322909699165000fd61dbd643f1163a147e65c9624d492f",
+   "title": "In the Hall of the Mountain King"
+  },
+  {
+   "category": "classic",
+   "composer": "Wolfgang Amadeus Mozart",
+   "file": "songs/mozart-symphony-40.song",
+   "id": "mozart-symphony-40",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "e03b43454e65b90789aec502f47556d881ceb2e58b6103aa70e45809d747da29",
+   "title": "Symphony No. 40 (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Wolfgang Amadeus Mozart",
+   "file": "songs/rondo-alla-turca.song",
+   "id": "rondo-alla-turca",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "d4d7d096ee3f779ee322608e1ed6a4e18c4967a01aab3b2606a2637a4c63d5aa",
+   "title": "Rondo alla Turca (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Joseph Haydn",
+   "file": "songs/surprise-symphony.song",
+   "id": "surprise-symphony",
+   "pro": false,
+   "released": "2026-10-04",
+   "sha256": "0a3ab8abfc76d93d8672ce7f676c611a5781527c8e4ca9144f825c7d092af720",
+   "title": "Surprise Symphony (Andante)"
+  },
+  {
+   "category": "classic",
+   "composer": "Johann Sebastian Bach",
+   "file": "songs/toccata-d-minor.song",
+   "id": "toccata-d-minor",
+   "pro": true,
+   "released": "2026-10-04",
+   "sha256": "6d993a692628e12241e7565146f3ef720105250fb74b4f046fce71e566670548",
+   "title": "Toccata in D minor (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/fantaisie-impromptu.song",
+   "id": "fantaisie-impromptu",
+   "pro": true,
+   "released": "2026-10-11",
+   "sha256": "94ff32aa8445d497b6bfd4f861296c3d297fa2d45b51dbc5f94ed0b3fbb2569a",
+   "title": "Fantaisie-Impromptu (middle theme)"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/minute-waltz.song",
+   "id": "minute-waltz",
+   "pro": true,
+   "released": "2026-10-11",
+   "sha256": "5e13791593f5bf21d944ea8b53d9973df5967cacdf02a5f68e7518bf6d02590e",
+   "title": "Minute Waltz (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/prelude-a-major.song",
+   "id": "prelude-a-major",
+   "pro": false,
+   "released": "2026-10-11",
+   "sha256": "b5e48ce567bd860dd43126d8b63cb7ee52b6b6e3757cfc8f697daf2e9e357049",
+   "title": "Prelude in A major"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/prelude-c-minor.song",
+   "id": "prelude-c-minor",
+   "pro": true,
+   "released": "2026-10-11",
+   "sha256": "35cb9054043cd67844892337226b50ecf66f40acaca5d41f54e3284738fba80c",
+   "title": "Prelude in C minor"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/prelude-e-minor.song",
+   "id": "prelude-e-minor",
+   "pro": false,
+   "released": "2026-10-11",
+   "sha256": "84c2c719cb07f20d075ccc20c29b2d8b008b05dc9485748d3f8b2028bc6bb139",
+   "title": "Prelude in E minor"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/raindrop-prelude.song",
+   "id": "raindrop-prelude",
+   "pro": true,
+   "released": "2026-10-11",
+   "sha256": "e35e467890550d67d6728a44f777b1b77167662c5bc3503503e800ded66a3f7b",
+   "title": "Raindrop Prelude (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Fr\u00e9d\u00e9ric Chopin",
+   "file": "songs/waltz-b-minor.song",
+   "id": "waltz-b-minor",
+   "pro": true,
+   "released": "2026-10-11",
+   "sha256": "cfe034ba5b6ff0ce3f8229b69b59dce135a9c229a8ced6fd03133aca534e9387",
+   "title": "Waltz in B minor"
+  },
+  {
+   "category": "classic",
+   "composer": "Claude Debussy",
+   "file": "songs/clair-de-lune.song",
+   "id": "clair-de-lune",
+   "pro": true,
+   "released": "2026-10-18",
+   "sha256": "2ac8a5bd49d76d9e8dd941f01d20e04e3304de874e525b6ae11ce92d151dc98c",
+   "title": "Clair de Lune (opening)"
+  },
+  {
+   "category": "classic",
+   "composer": "Scott Joplin",
+   "file": "songs/the-entertainer.song",
+   "id": "the-entertainer",
+   "pro": true,
+   "released": "2026-10-18",
+   "sha256": "c4af496f6e0074a16a44b72c2b7d86bdb448296a3e384a342eba95e2b2228486",
+   "title": "The Entertainer"
+  },
+  {
+   "category": "classic",
+   "composer": "Wolfgang Amadeus Mozart",
+   "file": "songs/mozart-sonata-theme.song",
+   "id": "mozart-sonata-theme",
+   "pro": true,
+   "released": "2026-10-25",
+   "sha256": "63e11b86164fea919d94558f08898288c6e24fbcb27433a24142422ded9b381d",
+   "title": "Sonata in A (theme)"
+  }
+ ],
+ "version": 1
+}

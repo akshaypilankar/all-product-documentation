@@ -1,6 +1,6 @@
 # Chopin Piano Privacy Policy
 
-*Effective 11 October 2026*
+*Effective 13 October 2026*
 
 Chopin Piano is made by Akshay Pilankar. In short: **Chopin Piano has no accounts, no ads and no analytics.** It doesn't collect personal data, and nothing you play is sent to me.
 
@@ -26,14 +26,11 @@ New songs are downloaded from the Chopin Piano website, which is hosted by GitHu
 
 ## Purchases
 
-Subscriptions and the lifetime unlock are handled by Apple. I never see your payment details; the app only learns whether Pro is unlocked.
+Pro is a one-time purchase handled by Apple. I never see your payment details; the app only learns whether Pro is unlocked.
 
 ## Notifications
 
-If you allow notifications, Chopin Piano sends two kinds, both scheduled on your device:
-
-- a practice reminder at the time you choose, if you turn it on, and only on days you haven't practised yet
-- a reminder before a free trial turns into a paid subscription
+If you allow notifications, Chopin Piano sends only a practice reminder, scheduled on your device: at the time you choose, if you turn it on, and only on days you haven't practised yet.
 
 ## Children
 

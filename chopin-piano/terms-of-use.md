@@ -1,6 +1,6 @@
 # Chopin Piano Terms of Use
 
-*Effective 11 October 2026*
+*Effective 13 October 2026*
 
 Chopin Piano is made by Akshay Pilankar. These terms cover your use of the app. Your licence to use it comes from Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (the "Standard EULA"). These terms add what's specific to Chopin Piano. Where the two differ, the Standard EULA applies.
 
@@ -8,16 +8,13 @@ Chopin Piano is made by Akshay Pilankar. These terms cover your use of the app. 
 
 Wait mode, the microphone, touch keys and the first 15 songs are free. Chopin Piano Pro adds Play mode with timing scores, Learn step by step, sight-reading at every level, MIDI keyboards and every song added after the free ones.
 
-## Subscriptions
+## Buying Pro
 
-Pro is offered as a monthly or yearly subscription, or as a one-time lifetime purchase.
+Pro is a one-time purchase. There's no subscription.
 
-- Payment is charged to your Apple Account when you confirm the purchase.
-- A subscription renews automatically unless you cancel it at least 24 hours before the end of the current period. Your account is charged for the renewal within the 24 hours before the period ends, at the same length and price unless you were told about a change.
-- Manage or cancel subscriptions in **Settings › your name › Subscriptions**, or from **Manage subscription** in the app.
-- A free trial, when offered, turns into a paid subscription at the end of the trial unless you cancel at least 24 hours before it ends. Any unused part of a trial ends when you buy a subscription.
-- The lifetime purchase is a single payment and never renews.
-- Prices are shown in the app before you buy and can change. Apple tells you before a subscription price goes up.
+- Payment is charged to your Apple Account when you confirm the purchase. It never renews.
+- Once bought, Pro stays unlocked on every device signed in with that Apple Account; use **Restore purchases** on a new device.
+- The price is shown in the app before you buy.
 - Refunds are handled by Apple under its own policies: [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Songs and lessons
