@@ -5,6 +5,11 @@
 - [Support](pane/support.md)
 - [Privacy Policy](pane/privacy-policy.md)
 
+## Spatium: Storage Cleaner
+
+- [Support](spatium/support.md)
+- [Privacy Policy](spatium/privacy-policy.md)
+
 ## Chopin Piano
 
 - [Support](chopin-piano/support.md)
