@@ -42,11 +42,10 @@ Tap **Import a MIDI file** under **My songs**, or open a MIDI file from Files, A
 
 Tap the bell on the **Today's practice** card to turn the daily reminder on or off, or to change its time. You can also turn off all notifications in **Settings › Notifications › Chopin Piano**.
 
-## Restoring or cancelling Pro
+## Pro and restoring it
 
+- **Pro is a one-time purchase.** There's no subscription, so there's nothing to cancel.
 - **Restore:** open the Pro screen and tap **Restore purchases**, signed in with the Apple Account you bought Pro with.
-- **Cancel a subscription:** tap **Manage subscription** on the Pro screen, or go to **Settings › your name › Subscriptions**. Cancel at least 24 hours before the renewal date.
-- **Free trial:** Chopin Piano reminds you two days before a trial turns into a paid subscription.
 - **Refunds** are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 Wait mode, the microphone and the first 15 songs are always free.
