@@ -24,15 +24,15 @@ No. Spatium analyzes everything on your device and has no servers, no accounts a
 
 ## How does the free plan work?
 
-You get 25 cleanups a day: deleting one item or compressing one video counts as one cleanup. Keeping items is always free. The count starts again each day.
+Scanning and looking through everything Spatium finds is free, and so is keeping items. You also get two free cleanups in total. One cleanup is one confirmed change, such as the deletions from one swipe session, one Smart Clean or one compressed video, and it covers up to 25 items. After the second, Spatium Lifetime unlocks the rest.
 
 ## Unlocking and restoring Spatium Lifetime
 
-Spatium Lifetime is a one-time purchase that removes the daily limit. There is no subscription.
+Spatium Lifetime is a one-time purchase that removes the limit. There is no subscription.
 
 - **Buy:** **Settings › Unlock Spatium Lifetime**.
 - **Restore:** **Settings › Restore Purchases**, signed in with the same Apple Account you bought it with.
-- One purchase unlocks Spatium on your iPhone, iPad and Mac. If Family Sharing is on, family members get it too.
+- One purchase unlocks Spatium on your iPhone and iPad.
 
 ## Spatium suggests a photo I want to keep
 
