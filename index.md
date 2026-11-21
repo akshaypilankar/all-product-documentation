@@ -18,4 +18,6 @@
 
 ## art-fill
 
+- [Support](art-fill/support.md)
 - [Terms of Use](art-fill/terms-of-use.md)
+- [Privacy Policy](art-fill/privacy-policy.md)
